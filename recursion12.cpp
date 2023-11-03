@@ -1,7 +1,7 @@
-class Solution {
+toclass Solution {
   public:
   int pagal(int arr[],int s,int e,int val) {
-        // code here
+        // code here using recursion 
         if(s>e){
             return -1;
         }
